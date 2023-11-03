@@ -41,3 +41,5 @@ contract MedicalAppointment {
         appointments[_appointmentIndex].status = Status.Canceled;
     }
 }
+
+#Medical IoT project
