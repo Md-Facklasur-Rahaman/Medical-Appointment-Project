@@ -42,4 +42,3 @@ contract MedicalAppointment {
     }
 }
 
-#Medical IoT project
